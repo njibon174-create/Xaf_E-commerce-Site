@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.vercel
+*.db
+*.sqlite
+.DS_Store
+Thumbs.db
+
+credentials/.env
+
+scripts/creds.json
+
+**/.env
